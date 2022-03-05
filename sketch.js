@@ -174,30 +174,6 @@ function vocalsRemoverFromObject(objectMultiContainer) {
 
 console.log(vocalsRemoverFromObject(testObjMultiContainer));
 
-console.log("Ejercicio 9");
-
-/*Dado un arreglo de palabras reemplazar la última vocal por una x y retornar dicho arreglo.*/
-
-let someWordsToTest = ["compañeros", "estudiantes", "señores", "amigos", "graduandos", "artistas", "universitarios"];
-
-function lastVocalReplacer(words) {
-}
-
-console.log("Ejercicio 10");
-
-/*Dada una lista de palabras verificar si alguna de las palabras es la
-versión al revés de alguna de las palabras de una segunda lista,
-debe contar las identificadas y retornar un objeto con ese conteo.*/
-
-
-let testListA = ["amor", "sabor", "calor","firma", "mara"];
-let testListB = ["roma", "robar", "portar", "arma", "mora"];
-
-function doubleListVerifier(listA, listB) {
-}
-
-
-
 
 
 

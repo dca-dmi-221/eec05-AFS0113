@@ -1,3 +1,5 @@
+//Andres felipe santacruz zamora - A00372148
+
 'use strict'
 
 /*Dada una cadena de texto (string) separe y muestre en consola los caracteres de forma desordenada uno por línea, 1 caracter a la vez.*/
